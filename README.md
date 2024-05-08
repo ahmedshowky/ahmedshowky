@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedshowky" alt="ahmedshowky" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ahmed_uix" target="blank"><img src="https://img.shields.io/twitter/follow/ahmed_uix?logo=twitter&style=for-the-badge" alt="ahmed_uix" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ahmedshowkyx" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedshowkyx?logo=twitter&style=for-the-badge" alt="ahmedshowkyx" /></a> </p>
 
 - 🔭 I’m currently working on [Elsouq El-araby](https://github.com/ahmedshowky/elsouq-elaraby)
 
