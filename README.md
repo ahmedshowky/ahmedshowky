@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Showky</h1>
-![Ahmed Showky](https://github.com/ahmedshowky/ahmedshowky/assets/25411027/a85c8271-3cb6-463b-8ad3-5e7ec06461eb)
-
+![Ahmed Showky]()
+<p align="left"> <img src="https://github.com/ahmedshowky/ahmedshowky/assets/25411027/a85c8271-3cb6-463b-8ad3-5e7ec06461eb" alt="ahmedshowky" /> </p>
 <h3 align="center">A passionate frontend developer from Egypt 🧠🦾🇪🇬</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedshowky&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedshowky" /> </p>
