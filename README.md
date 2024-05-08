@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/ahmedshowkyx" target="_blank"><img src="https://img.shields.io/twitter/follow/ahmedshowkyx?logo=twitter&style=for-the-badge" alt="ahmedshowkyx" /></a> </p>
 
-<p align="left"> <a href="https://facebook.com/ahmed.uix" target="_blank"><img src="[https://img.shields.io/twitter/follow/ahmedshowkyx?logo=twitter&style=for-the-badge](https://img.shields.io/twitter/follow/ahmed.uix?logo=facebook&style=for-the-badge)" alt="ahmedshowkyx" /></a> </p>
+<p align="left"> <a href="https://facebook.com/ahmed.uix" target="_blank"><img src="https://img.shields.io/twitter/follow/ahmed.uix?logo=facebook&style=for-the-badge" alt="ahmed.uix"/></a></p>
 
 
 
